@@ -9,7 +9,7 @@ Slide decks use by the Mozilla Philippines Community
   pdf | pptx | update
 - Mozilla Learning Network
 
-  pdf | pptx | update
+  [pdf](https://docs.google.com/presentation/d/1p6ijCvoGqMaVRD4OMtn4wRk9XrpvPv7mes7xJ4lrJqU/export/pdf) | [pptx](https://docs.google.com/presentation/d/1p6ijCvoGqMaVRD4OMtn4wRk9XrpvPv7mes7xJ4lrJqU/export/pptx) | [update](https://docs.google.com/presentation/d/1p6ijCvoGqMaVRD4OMtn4wRk9XrpvPv7mes7xJ4lrJqU/edit?usp=sharing)
 - Online Privacy Awareness
 
   [pdf](https://docs.google.com/presentation/d/1Jft1GuNmPqhDax2nI37dShk4TlVSmKNWBEGBCuTaMNE/export/pdf) | [pptx](https://docs.google.com/presentation/d/1Jft1GuNmPqhDax2nI37dShk4TlVSmKNWBEGBCuTaMNE/export/pptx) | [update](https://docs.google.com/presentation/d/1Jft1GuNmPqhDax2nI37dShk4TlVSmKNWBEGBCuTaMNE/edit?usp=sharing)
