@@ -12,4 +12,4 @@ Slide decks use by the Mozilla Philippines Community
   pdf | pptx | update
 - Online Privacy Awareness
 
-  [pdf](https://docs.google.com/presentation/d/1Jft1GuNmPqhDax2nI37dShk4TlVSmKNWBEGBCuTaMNE/export?format=pdf) | pptx | update
+  [pdf](https://docs.google.com/presentation/d/1Jft1GuNmPqhDax2nI37dShk4TlVSmKNWBEGBCuTaMNE/export/pdf) | [pptx](https://docs.google.com/presentation/d/1Jft1GuNmPqhDax2nI37dShk4TlVSmKNWBEGBCuTaMNE/export/pptx) | [update](https://docs.google.com/presentation/d/1Jft1GuNmPqhDax2nI37dShk4TlVSmKNWBEGBCuTaMNE/edit?usp=sharing)
