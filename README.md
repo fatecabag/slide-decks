@@ -4,7 +4,7 @@ Slide decks use by the Mozilla Philippines Community
 - Mozilla Overview
 
   [pdf](https://docs.google.com/presentation/d/1q0D3DGKatCTYQl0VwwRks5yL8U7j38z00tkecWV1Sis/export/pdf) | [pptx](https://docs.google.com/presentation/d/1q0D3DGKatCTYQl0VwwRks5yL8U7j38z00tkecWV1Sis/export/pptx) | [update](https://docs.google.com/presentation/d/1q0D3DGKatCTYQl0VwwRks5yL8U7j38z00tkecWV1Sis/edit?usp=sharing)
-  - Firefox OS
+- Firefox OS
 
   [pdf](https://docs.google.com/presentation/d/1JhHJlbIrGn868dh5allTPED_E_8aVNLjUopdRMKd3nQ/export/pdf) | [pptx](https://docs.google.com/presentation/d/1JhHJlbIrGn868dh5allTPED_E_8aVNLjUopdRMKd3nQ/export/pptx) | [update](https://docs.google.com/presentation/d/1JhHJlbIrGn868dh5allTPED_E_8aVNLjUopdRMKd3nQ/edit?usp=sharing)
 - Firefox Developer Tools
